@@ -31,7 +31,7 @@ Hi, I'm Sefa Melek, a Quality Assurance Engineer 🚀 from Turkey, currently, I'
 ## **Tech Toolbox🧰**<br>
 
 <p align='center'>
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="300" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="100" height="100" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/> </a>
