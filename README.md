@@ -1,7 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-[![GitHub](https://github.com/sefamelek/sefamelek/blob/f35fe8e5d19e78b56aa85634e7489ad257f2b5a4/icons8-github.svg)](https://github.com/sefamelek) [![LinkedIn](https://raw.githubusercontent.com/arjunMee/arjunMee/master/soc/gh.svg?token=AQWYXGVYBAQSQ4BB4FWPB73AUYRWG)](https://github.com/sefamelek) [![Facebook](https://raw.githubusercontent.com/arjunMee/arjunMee/master/soc/fb.svg?token=AQWYXGXXXHCQPW6TB5K662DAUYRU4)](https://www.facebook.com/arjun.bu12/) [![Instagram](https://raw.githubusercontent.com/arjunMee/arjunMee/master/soc/ig.svg?token=AQWYXGSRZV6J3H2AIKD4Z2DAUYRXA)](https://www.instagram.com/arjun.meena12/) [![WhatsApp](https://raw.githubusercontent.com/arjunMee/arjunMee/master/soc/wa.svg?token=AQWYXGUNIDZSRF74LZPBPTTAUYRYW)]()
+[![GitHub](https://github.com/sefamelek/sefamelek/blob/f35fe8e5d19e78b56aa85634e7489ad257f2b5a4/icons8-github.svg)](https://github.com/sefamelek) [![LinkedIn](https://github.com/sefamelek/sefamelek/blob/41c200ef66415aba813bf8518aefb1972559d4b4/icons8-linkedin.svg)](https://www.linkedin.com/in/sefamelek) [![Medium](https://github.com/sefamelek/sefamelek/blob/41c200ef66415aba813bf8518aefb1972559d4b4/icons8-medium-monogram.svg)](https://sefamelek.medium.com/) [![Youtube](https://github.com/sefamelek/sefamelek/blob/main/icons8-youtube-logo.svg)](https://www.youtube.com/hafifmuhendis/) [![Twitter](https://github.com/sefamelek/sefamelek/blob/main/icons8-twitter.svg)](https://twitter.com/sefa_melek)
 
 <br />
 
