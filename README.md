@@ -1,7 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-[![Website](https://raw.githubusercontent.com/arjunMee/arjunMee/master/soc/ws.svg?token=AQWYXGRHCRNYN3ZD5UX7RGLAUYRZY)]() [![LinkedIn](https://raw.githubusercontent.com/arjunMee/arjunMee/master/soc/li.svg?token=AQWYXGRESHQDYV3VM6GGCPDAUYRX2)]() [![GitHub](https://raw.githubusercontent.com/arjunMee/arjunMee/master/soc/gh.svg?token=AQWYXGVYBAQSQ4BB4FWPB73AUYRWG)](https://github.com/arjunMee) [![Facebook](https://raw.githubusercontent.com/arjunMee/arjunMee/master/soc/fb.svg?token=AQWYXGXXXHCQPW6TB5K662DAUYRU4)](https://www.facebook.com/arjun.bu12/) [![Instagram](https://raw.githubusercontent.com/arjunMee/arjunMee/master/soc/ig.svg?token=AQWYXGSRZV6J3H2AIKD4Z2DAUYRXA)](https://www.instagram.com/arjun.meena12/) [![WhatsApp](https://raw.githubusercontent.com/arjunMee/arjunMee/master/soc/wa.svg?token=AQWYXGUNIDZSRF74LZPBPTTAUYRYW)]()
+[![LinkedIn](https://raw.githubusercontent.com/arjunMee/arjunMee/master/soc/li.svg?token=AQWYXGRESHQDYV3VM6GGCPDAUYRX2)]() [![GitHub](https://raw.githubusercontent.com/arjunMee/arjunMee/master/soc/gh.svg?token=AQWYXGVYBAQSQ4BB4FWPB73AUYRWG)](https://github.com/sefamelek) [![Facebook](https://raw.githubusercontent.com/arjunMee/arjunMee/master/soc/fb.svg?token=AQWYXGXXXHCQPW6TB5K662DAUYRU4)](https://www.facebook.com/arjun.bu12/) [![Instagram](https://raw.githubusercontent.com/arjunMee/arjunMee/master/soc/ig.svg?token=AQWYXGSRZV6J3H2AIKD4Z2DAUYRXA)](https://www.instagram.com/arjun.meena12/) [![WhatsApp](https://raw.githubusercontent.com/arjunMee/arjunMee/master/soc/wa.svg?token=AQWYXGUNIDZSRF74LZPBPTTAUYRYW)]()
 
 <br />
 
