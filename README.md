@@ -1,11 +1,11 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Sefa's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
 <br />
 
-Hi, I'm [Sefa Melek ], a Quality Assuarence Engineer 🚀 from Turkey, currently, I'm a QA Engineer at 🙍🏽‍♂️ [@Finartz](https://finartz.com/)
+Hi, I'm [Sefa Melek], a Quality Assurance Engineer 🚀 from Turkey, currently, I'm a QA Engineer at 🙍🏽‍♂️ [@Finartz](https://www.finartz.com/)
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
