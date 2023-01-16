@@ -78,9 +78,6 @@ Hi, I'm Sefa Melek, a Quality Assurance Engineer 🚀 from Turkey, currently, I'
     <kbd>UI AUTOMATION</kbd>
     <br>
     <br>
-    
-
-                    
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" />
   </kbd>
