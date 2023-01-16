@@ -1,6 +1,10 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<a href="https://github.com/sefamelek" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Github"/> </a>
+<a href="https://linkedin.com/sefamelek" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> </a>
 <a href="https://github.com/sefamelek" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> </a>
+<a href="https://github.com/sefamelek" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> </a>
+
 [![GitHub](https://github.com/sefamelek/sefamelek/blob/f35fe8e5d19e78b56aa85634e7489ad257f2b5a4/icons8-github.svg)](https://github.com/sefamelek) [![LinkedIn](https://github.com/sefamelek/sefamelek/blob/41c200ef66415aba813bf8518aefb1972559d4b4/icons8-linkedin.svg)](https://www.linkedin.com/in/sefamelek) [![Medium](https://github.com/sefamelek/sefamelek/blob/26eb460a41b1da772bbdcdd44407d90f0bd7da26/icons8-medium.svg)](https://sefamelek.medium.com/) [![Youtube](https://github.com/sefamelek/sefamelek/blob/main/icons8-youtube-logo.svg)](https://www.youtube.com/hafifmuhendis/) [![Twitter](https://github.com/sefamelek/sefamelek/blob/main/icons8-twitter.svg)](https://twitter.com/sefa_melek)
 
 <br />
