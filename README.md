@@ -75,21 +75,18 @@ Hi, I'm Sefa Melek, a Quality Assurance Engineer 🚀 from Turkey, currently, I'
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
   </kbd>
   <kbd>
-    <kbd>TEST TOOLS</kbd>
+    <kbd>AUTOMATION</kbd>
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" />
   </kbd>
-   <kbd>
   <kbd>
     <kbd>Database</kbd>
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
   </kbd>
-  <br>
-  <br>
  
   <kbd>
     <kbd>System, Networking & Deployment</kbd>
