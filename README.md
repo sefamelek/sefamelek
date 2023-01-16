@@ -41,6 +41,27 @@ Hi, I'm Sefa Melek, a Quality Assurance Engineer 🚀 from Turkey, currently, I'
 <a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/> </a>
   <a href="https://www.selenium.dev/" target="_blank"> <img src="https://img.shields.io/badge/-Selenium-lightgrey?style=for-the-badge&logo=selenium" alt="selenium"/> </a>
+   <a href="https://www.testng.org/" target="_blank"> <img src="https://img.shields.io/badge/-TestNG-green?style=for-the-badge&logo=testng" alt="TestNG"/> </a>
+  
+     <a href="https://www.microfocus.com/en-us/products/uft-one/overview" target="_blank"> <img src="https://img.shields.io/badge/-Micro%20Focus%20UFT-yellow?style=for-the-badge&logo=UFT" alt="UFT"/> </a>
+  
+    <a href="https://rest-assured.io/" target="_blank"> <img src="https://img.shields.io/badge/-Rest%20Assured-yellowgreen?style=for-the-badge&logo=Rest%20Assured" alt="RestAssured"/> </a>
+  
+    <a href="https://www.jenkins.io/" target="_blank"> <img src="https://img.shields.io/badge/-Jenkins-grey?style=for-the-badge&logo=Jenkins" alt="Jenkins"/> </a>
+  
+  
+    <a href="https://www.postman.com/" target="_blank"> <img src="https://img.shields.io/badge/-postman-darkblue?style=for-the-badge&logo=postman" alt="Postman"/> </a>
+  
+  
+    <a href="https://www.postman.com/" target="_blank"> <img src="https://img.shields.io/badge/-postman-darkblue?style=for-the-badge&logo=postman" alt="Postman"/> </a>
+  
+  
+  
+  
+  
+  
+  
+  
   
   
 
