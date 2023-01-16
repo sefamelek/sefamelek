@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://github.com/sefamelek" target="_blank"> <img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=Github" width="100" height="100" alt="Github"/> </a>
+<a href="https://github.com/sefamelek" target="_blank"> <img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=Github" width="100" alt="Github"/> </a>
 <a href="https://linkedin.com/in/sefamelek" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> </a>
 <a href="https://medium.com/@sefamelek" target="_blank"> <img src="https://img.shields.io/badge/-Medium-grey?style=for-the-badge&logo=Medium" alt="Medium"/> </a>
 <a href="https://github.com/sefamelek" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> </a>
