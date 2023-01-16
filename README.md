@@ -46,7 +46,15 @@ Hi, I'm Sefa Melek, a Quality Assurance Engineer 🚀 from Turkey, currently, I'
   <a href="https://rest-assured.io/" target="_blank"> <img src="https://img.shields.io/badge/-Rest%20Assured-yellowgreen?style=for-the-badge&logo=Rest%20Assured" alt="RestAssured"/> </a>
   <a href="https://www.jenkins.io/" target="_blank"> <img src="https://img.shields.io/badge/-Jenkins-grey?style=for-the-badge&logo=Jenkins" alt="Jenkins"/> </a>
   <a href="https://www.postman.com/" target="_blank"> <img src="https://img.shields.io/badge/-postman-darkblue?style=for-the-badge&logo=postman" alt="Postman"/> </a>
-  <a href="https://www.postman.com/" target="_blank"> <img src="https://img.shields.io/badge/-postman-darkblue?style=for-the-badge&logo=postman" alt="Postman"/> </a>
+  <a href="https://www.appium.io/" target="_blank"> <img src="https://img.shields.io/badge/-appium-black?style=for-the-badge&logo=Appium" alt="Appium"/> </a>
+  <a href="https://cucumber.io/" target="_blank"> <img src="https://img.shields.io/badge/-Cucumber-black?style=for-the-badge&logo=cucumber" alt="Cucumber"/> </a>
+  <a href="https://jmeter.apache.org/" target="_blank"> <img src="https://img.shields.io/badge/-jmeter-lightgrey?style=for-the-badge&logo=Jmeter" alt="JMeter"/> </a>
+  <a href="https://gauge.org/" target="_blank"> <img src="https://img.shields.io/badge/-gauge-blue?style=for-the-badge&logo=gauge" alt="Gauge"/> </a>
+ <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=MySQL" alt="MySQL"/> </a>  <a href="https://robotframework.org/" target="_blank"> <img src="https://img.shields.io/badge/-Robot%20Framework-yellow?style=for-the-badge&logo=Robot%20Framework" alt="Robot Framework"/> </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://img.shields.io/badge/-JIRA-yellow?style=for-the-badge&logo=JIRA" alt="JIRA"/> </a>
+  <a href="https://github.com/karatelabs/karate" target="_blank"> <img src="https://img.shields.io/badge/-Karate-red?style=for-the-badge&logo=Karate%20Framework" alt="Karate"/> </a>
+
+
   
   
   
