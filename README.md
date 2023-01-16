@@ -6,7 +6,7 @@
 <a href="https://youtube.com/hafifmuhendis" target="_blank"> <img src="https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=Youtube" alt="Youtube"/> </a>
 <br />
 
-Hi, I'm Sefa Melek, a Quality Assurance Engineer 🚀 from Turkey, currently, I'm a QA Engineer at 🙍🏽‍♂️ [@ScorpApp](https://www.scorpapp.com/), former [@Finartz](https://www.finartz.com/) ,former Software Test Specialist at [@Testinium](https://www.testinium.com/), founder at [@HafifMuhendis](https://www.youtube.com/hafifmuhendis/)
+Hi, I'm Sefa Melek, a Quality Assurance Engineer 🚀 from Turkey, currently, I'm a QA Engineer at 🙍🏽‍♂️ [@ScorpApp](https://www.scorpapp.com/), former Software QA Engineer at [@Finartz](https://www.finartz.com/) ,former Software Test Specialist at [@Testinium](https://www.testinium.com/), founder at [@HafifMuhendis](https://www.youtube.com/hafifmuhendis/)
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
