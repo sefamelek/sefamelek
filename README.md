@@ -40,7 +40,7 @@ Hi, I'm Sefa Melek, a Quality Assurance Engineer 🚀 from Turkey, currently, I'
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
 <a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/> </a>
-  <a href="https://www.selenium.dev/" target="_blank"> <img src="https://img.shields.io/badge/-Selenium-green?style=for-the-badge&logo=selenium" alt="linux"/> </a>
+  <a href="https://www.selenium.dev/" target="_blank"> <img src="https://img.shields.io/badge/-Selenium-lightgrey?style=for-the-badge&logo=selenium" alt="selenium"/> </a>
   
   
 
