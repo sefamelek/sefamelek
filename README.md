@@ -16,7 +16,7 @@ Hi, I'm Sefa Melek, a Quality Assurance Engineer 🚀 from Turkey, currently, I'
 - 🌱 I’m currently learning Appium and Docker; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@sefa_melek](https://www.linkedin.com/in/sefamelek);
-- 📝[Resume](https://www.linkedin.com/in/sefamelek/overlay/1635510455654/single-media-viewer/?profileId=ACoAACU1p_sBKmv6rCS3Mm5OkOGrZ8idLCH4Zto)
+- 📝[Resume](https://www.linkedin.com/in/sefamelek/overlay/1635518626073/single-media-viewer/?profileId=ACoAACU1p_sBKmv6rCS3Mm5OkOGrZ8idLCH4Zto)
 
 
 
